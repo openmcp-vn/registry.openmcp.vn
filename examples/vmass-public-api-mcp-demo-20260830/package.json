@@ -1,0 +1,21 @@
+{
+  "name": "@openmcp-vn/vmass-public-api-mcp-demo-20260830",
+  "version": "0.1.0",
+  "description": "Generated MCP demo for the public VMASS API documentation.",
+  "type": "module",
+  "bin": {
+    "vmass-public-api-mcp-demo-20260830": "server.js"
+  },
+  "files": [
+    "server.js",
+    "README.md"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/openmcp-vn/registry.openmcp.vn"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
