@@ -1,5 +1,5 @@
 {
-  "name": "@openmcp-vn/vmass-public-api-mcp-demo-20260830",
+  "name": "openmcp-vn-vmass-public-api-mcp-demo-20260830",
   "version": "0.1.0",
   "description": "Generated MCP demo for the public VMASS API documentation.",
   "type": "module",
