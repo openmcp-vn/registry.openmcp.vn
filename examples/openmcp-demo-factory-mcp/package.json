@@ -1,0 +1,21 @@
+{
+  "name": "@openmcp-vn/openmcp-demo-factory-mcp",
+  "version": "0.1.0",
+  "description": "Generated demo MCP used to validate GitHub and NPM publishing from the factory.",
+  "type": "module",
+  "bin": {
+    "openmcp-demo-factory-mcp": "server.js"
+  },
+  "files": [
+    "server.js",
+    "README.md"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/openmcp-vn/registry.openmcp.vn"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
