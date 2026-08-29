@@ -1,0 +1,21 @@
+{
+  "name": "@openmcp-vn/openmcp-debug-publish",
+  "version": "0.1.0",
+  "description": "Debug package publish flow.",
+  "type": "module",
+  "bin": {
+    "openmcp-debug-publish": "server.js"
+  },
+  "files": [
+    "server.js",
+    "README.md"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/openmcp-vn/registry.openmcp.vn"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
